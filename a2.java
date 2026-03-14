@@ -13,3 +13,15 @@ public class a2 {
         scan.close();
     }
 }
+
+
+
+
+
+
+
+
+
+//docker login
+//docker build -t imagename .
+//docker run -it imagename
